@@ -1,6 +1,4 @@
-# グラフ出力する際の疑似コード
 # 複数のjsonファイルからグラフを出力する。引数は入力数、入力ファイル名、カラー、xyのラベル名と出力ファイル名
-# 必要なもの 入力ファイル、
 import argparse
 import json
 import numpy as np
